@@ -39,6 +39,13 @@ prints out:
 FirstEmit
 ````
 
+## Module Feature Pipeline
+- [x] Implementation of **on** and **emit**
+- [x] **EventCollection** class to easily access the currently bound events
+- [x] Implementation of Event-Caching
+- [ ] Implementation of default Serialization via. BinaryFormatter
+- [ ] Little Performance optimizations
+
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
