@@ -2,6 +2,8 @@
 
 Python event system using the Nodejs 'EventEmitter' pattern
 
+<b>NOTE:</b> This module is probably not downward compatible with < 3.2
+
 ## Usage
 
 ````python
