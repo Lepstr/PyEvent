@@ -4,6 +4,9 @@ Python event system using the Nodejs 'EventEmitter' pattern
 
 <b>NOTE:</b> This module is probably not downward compatible with < 3.2
 
+The Next step with this module is to actually provide a default serialization process for single events,
+so you could send them to another user over the network or provide a couple of default startup events in a file.
+
 ## Usage
 
 ````python
