@@ -41,7 +41,7 @@ FirstEmit
 
 ## Module Feature Pipeline
 - [x] Implementation of **on** and **emit**
-- [x] **EventCollection** class to easily access the currently bound events
+- [x] EventCollection class to easily access the currently bound events
 - [x] Implementation of Event-Caching
 - [ ] Implementation of default Serialization via. BinaryFormatter
 - [ ] Little Performance optimizations
