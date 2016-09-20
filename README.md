@@ -27,7 +27,7 @@ instance.EmittingMethod("FirstEmit")
 instance.on("FirstEmit", lambda x: print(x))
 
 instance.remove_all_listeners()
-instance.EmittingMethod("FirstEmit")
+instance.EmittingMethod("SecEmit")
 ````
 prints out:
 ````
